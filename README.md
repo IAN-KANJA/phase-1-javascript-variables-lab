@@ -97,7 +97,7 @@ gather the information that you can. We will also provide instructions in the
 
 To run the tests, type `learn` or `learn test` in the terminal. You should now
 see the current status of the tests in the terminal. For the moment, all of the
-tests fail. Let's figure out how to get one of them passing! (The rest will be
+tests fail. Let's figure out aahow to get one of them passing! (The rest will be
 up to you.)
 
 To get our first test to pass, we can open up our `index.js` file, and write the
